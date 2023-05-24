@@ -1,0 +1,6 @@
+run the following commands to install required packages:
+pip install dicom
+pip install scipy
+pip install scikit-image
+pip install functools
+
